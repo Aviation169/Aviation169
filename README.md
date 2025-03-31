@@ -35,10 +35,11 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔒 **Cybersecurity & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+### 🔮**Tools**
+![VsCode](https://img.shields.io/badge/VsCode-3776AB?style=for-the-badge&logo=VsCode&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/GoogleColab-3776AB?style=for-the-badge&logo=GoogleColab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-3776AB?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 ---
 
