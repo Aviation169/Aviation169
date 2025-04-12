@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 👋 Hi, I’m **M. Ajay Sivakumar**, a **final-year Computer Science Engineering** student at **Hindustan University Chennai**.  
-🔥 I specialize in **AI agents, Large Language Models (LLMs), Web Development, and Cybersecurity.**  
+🔥 I specialize in **AI agents, Large Language Models (LLMs), and Web Development.**  
 🎯 Passionate about **pushing AI boundaries, building intelligent research agents, and crafting next-gen applications.**  
 
 ---
